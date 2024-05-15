@@ -1,0 +1,15 @@
+nginx/*.pem
+.idea
+.vscode
+venv
+../.env
+__pycache__
+db.sqlite3
+.deploy_env
+requirements.txt
+/logo
+/bg
+*.log
+media/
+src/staticfiles
+.env

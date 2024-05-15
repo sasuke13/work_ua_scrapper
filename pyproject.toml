@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "webscrapper"
+version = "0.1.0"
+description = ""
+authors = ["sasuke13 <bgnydyn@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "^3.9.3"
+html5lib = "^1.1"
+beautifulsoup4 = "^4.12.3"
+requests = "^2.31.0"
+selenium = "^4.17.2"
+aiogram = "2.3"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
